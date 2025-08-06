@@ -1,7 +1,6 @@
 // This code converts a hexadecimal number to its decimal equivalent.
 // It reads a hexadecimal number from the user, processes each character,
 // and calculates the decimal value based on the position of each digit.
-package JavaPrograms;
 import java.util.Scanner;
 public class hexaToDecimal {
     public static void main(String[] args) {
