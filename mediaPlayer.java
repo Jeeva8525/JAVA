@@ -1,4 +1,3 @@
-package lab6;
 class Media{
     void play(){
         System.out.println("Playing Media");
