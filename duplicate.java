@@ -1,6 +1,5 @@
 //Throws an user defined error when a duplicate number is found while entering the input for an array
-
-import java.util.*;
+import java.util.Scanner;
 
 class DuplicateException extends Exception {
     DuplicateException(String message) {
