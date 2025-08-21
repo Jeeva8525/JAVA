@@ -1,6 +1,5 @@
 //Converts hexaDecimalCode into its corresponding binary equivalent , checks for invalid input exception , invalid hexaDecimal Number exception
-package lab7;
-import java.util.*;
+import java.util.Scanner;
 class hexException extends Exception {
     public hexException(String message) {
         super(message);
